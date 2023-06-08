@@ -19,7 +19,6 @@
     <main>
         <!-- Contenuto variabile in base alle pagine -->
         @yield( 'contentHome' )
-        <span class="test">ciao</span>
 
     </main>
 
